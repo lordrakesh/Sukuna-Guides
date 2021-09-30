@@ -1,6 +1,6 @@
-# 🍂Sticker
+# 🍂 Sticker
 
-🍂Sticker command is now updated. You can use
+🍂 Sticker command is now updated. You can use
 
 sticker --number to get sticker in different qualities.<br>
 
